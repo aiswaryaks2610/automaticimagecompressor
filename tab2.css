@@ -1,0 +1,26 @@
+.button {
+  background-color: #94acc2; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+  text-align: center;
+}
+
+.hero-image {
+  background-image: url("https://i.pinimg.com/564x/f9/27/8c/f9278c3843a1c628cf1afca166b48509.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
